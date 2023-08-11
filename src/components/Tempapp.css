@@ -56,6 +56,10 @@ h1{
     align-items: center;
     color: red;
     border-radius: 20px;
+    padding: 20px;
+}
+p{
+    font-size: 10px;
 }
 
 .box > .info{
@@ -87,18 +91,6 @@ h2{
     background: goldenrod;
     margin-bottom: 20px;
     font-size: 6px;
-
-}
-
-.wave-one{
-
-}
-
-.wave-two{
-
-}
-
-.wave-three{
 
 }
 
